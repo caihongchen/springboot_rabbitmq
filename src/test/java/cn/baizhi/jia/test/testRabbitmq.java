@@ -1,4 +1,4 @@
-package cn.baizhi.jia;
+package cn.baizhi.jia.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
